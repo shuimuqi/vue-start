@@ -1,4 +1,4 @@
-// 入口文件
+// 入口文件入扣文件
 import Vue from 'vue';
 import app from './App.vue'
 import {Header} from 'mint-ui'
