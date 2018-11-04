@@ -4,6 +4,7 @@ import app from './App.vue'
 import {Header} from 'mint-ui'
 Vue.component(Header.name,Header);
 import './lib/mui/css/mui.min.css'
+import './lib/mui/css/icons-extra.css'
 var vm=new Vue({
     el:'#app',
     data:{
